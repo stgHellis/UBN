@@ -13,8 +13,8 @@ export default function RootLayout({
           <Image
             src="/icons/ubnbank.png"
             alt="Auth image"
-            width={500}
-            height={500}
+            width={650}
+            height={680}
             className="rounded-l-xl object-contain"
           />
         </div>
